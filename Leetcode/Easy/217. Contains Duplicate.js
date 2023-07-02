@@ -1,3 +1,5 @@
+//leetcode.com/problems/contains-duplicate/
+
 // Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
 // Example 1:
@@ -25,7 +27,7 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-var containsDuplicate = function (nums) {
+https: var containsDuplicate = function (nums) {
   const set = new Set(nums);
   const arr = Array.from(set);
   return nums.length > arr.length ? true : false;

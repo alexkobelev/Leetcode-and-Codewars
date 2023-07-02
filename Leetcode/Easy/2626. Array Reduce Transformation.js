@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/array-reduce-transformation/solutions/3431407/javascript-2626-array-reduce-transformation/
+
 // Задача:
 // Given an integer array nums, a reducer function fn, and an initial value init, return a reduced array.
 
