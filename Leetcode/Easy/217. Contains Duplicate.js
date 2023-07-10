@@ -33,7 +33,7 @@ https: var containsDuplicate = function (nums) {
   return nums.length > arr.length ? true : false;
 };
 
-// МОЖНО УМЕНЬШИТЬ РАСХОД ПАМЯТИ С ПОМОЩЬЮ МЕТОДА SET.SIZE
+// МОЖНО УМЕНЬШИТЬ РАСХОД ПАМЯТИ С ПОМОЩЬЮ СВОЙСТВА SET.SIZE
 
 /**
  * @param {number[]} nums
